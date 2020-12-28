@@ -1,7 +1,7 @@
 # CoronaSafe Engineering Fellowship Test Problem
 The task is performed and the terminal output is as shown:
 
-![Image of output ](https://raw.githubusercontent.com/SatyamOzaR/CoronaSafe-Engineering-Fellowship-test-problem/main/terminal_output.png?token=ANLFRZAT5GJELABMDFSA7BK74TNXY)
+![ ](https://raw.githubusercontent.com/SatyamOzaR/CoronaSafe-Engineering-Fellowship-test-problem/main/terminal_output.png?token=ANLFRZHFE7XF4UB2LF5OTAK76KLHS)
 
 1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:
 
